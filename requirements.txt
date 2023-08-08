@@ -25,5 +25,6 @@ Flask
 Flask-Cors
 python-box
 mlflow
+imblearn
 
 -e .
